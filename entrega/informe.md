@@ -49,7 +49,7 @@ Se asume:
 - Consentimiento informado / asunción de riesgos para la práctica deportiva.
 
 ## 📈 Diagrama final entregado
-![Mapa](./entrega/mapa-final.png)
+<img src="entrega/diagrama.png" alt="Diagrama" width="700">
 
 ## 📋 Tabla de actores, entidades o componentes
 
