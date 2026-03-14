@@ -28,7 +28,7 @@ Describa brevemente qué se hizo durante la sesión:
 
 ##  Boceto inicial del modelo
 
-
+![Diagrama de infraestructura](diagrama-infra-Parte1.Miro.png)
 
 ##  Tareas definidas para complementar el taller
 
